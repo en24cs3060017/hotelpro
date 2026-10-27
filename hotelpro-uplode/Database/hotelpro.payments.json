@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6ae0e90abc84739aa020fe03"
+  },
+  "booking": {
+    "$oid": "6ae0e905bc84739aa020fdf8"
+  },
+  "user": {
+    "$oid": "6ae0e81d4e1766a8583ead4c"
+  },
+  "amount": 1800,
+  "method": "upi",
+  "status": "success",
+  "transactionId": "TXN179312461855898",
+  "createdAt": {
+    "$date": "2026-10-27T18:10:18.559Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T18:10:18.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae0e975bc84739aa020fe20"
+  },
+  "booking": {
+    "$oid": "6ae0e96bbc84739aa020fe15"
+  },
+  "user": {
+    "$oid": "6ae0e81d4e1766a8583ead4c"
+  },
+  "amount": 1900,
+  "method": "upi",
+  "status": "success",
+  "transactionId": "TXN1793124725799764",
+  "createdAt": {
+    "$date": "2026-10-27T18:12:05.800Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T18:12:05.800Z"
+  },
+  "__v": 0
+}]

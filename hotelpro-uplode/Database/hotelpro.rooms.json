@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "6ae0e81d4e1766a8583ead53"
+  },
+  "roomNumber": "102",
+  "type": "Single",
+  "price": 1900,
+  "capacity": 1,
+  "amenities": [
+    "WiFi",
+    "AC",
+    "Work desk"
+  ],
+  "description": "Quiet single room with a work desk.",
+  "status": "available",
+  "createdAt": {
+    "$date": "2026-10-27T18:06:21.410Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T18:06:21.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae0e81d4e1766a8583ead52"
+  },
+  "roomNumber": "101",
+  "type": "Single",
+  "price": 1800,
+  "capacity": 1,
+  "amenities": [
+    "WiFi",
+    "AC",
+    "TV"
+  ],
+  "description": "Compact room for solo travellers.",
+  "status": "available",
+  "createdAt": {
+    "$date": "2026-10-27T18:06:21.410Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T18:06:21.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae0e81d4e1766a8583ead54"
+  },
+  "roomNumber": "201",
+  "type": "Double",
+  "price": 2800,
+  "capacity": 2,
+  "amenities": [
+    "WiFi",
+    "AC",
+    "TV",
+    "Breakfast"
+  ],
+  "description": "Queen bed with breakfast included.",
+  "status": "available",
+  "createdAt": {
+    "$date": "2026-10-27T18:06:21.410Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T18:06:21.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae0e81d4e1766a8583ead57"
+  },
+  "roomNumber": "401",
+  "type": "Suite",
+  "price": 7500,
+  "capacity": 4,
+  "amenities": [
+    "WiFi",
+    "AC",
+    "Lounge",
+    "Mini bar",
+    "Breakfast"
+  ],
+  "description": "Two-room suite with a private lounge.",
+  "status": "available",
+  "createdAt": {
+    "$date": "2026-10-27T18:06:21.410Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T18:06:21.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae0e81d4e1766a8583ead55"
+  },
+  "roomNumber": "202",
+  "type": "Double",
+  "price": 3000,
+  "capacity": 3,
+  "amenities": [
+    "WiFi",
+    "AC",
+    "TV",
+    "Balcony"
+  ],
+  "description": "Spacious double with a balcony.",
+  "status": "available",
+  "createdAt": {
+    "$date": "2026-10-27T18:06:21.410Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T18:06:21.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae0e81d4e1766a8583ead56"
+  },
+  "roomNumber": "301",
+  "type": "Deluxe",
+  "price": 4500,
+  "capacity": 3,
+  "amenities": [
+    "WiFi",
+    "AC",
+    "Mini bar",
+    "Bathtub"
+  ],
+  "description": "Deluxe room with city view.",
+  "status": "available",
+  "createdAt": {
+    "$date": "2026-10-27T18:06:21.410Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T18:06:21.410Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "6ae0e905bc84739aa020fdf8"
+  },
+  "user": {
+    "$oid": "6ae0e81d4e1766a8583ead4c"
+  },
+  "room": {
+    "$oid": "6ae0e81d4e1766a8583ead52"
+  },
+  "checkIn": {
+    "$date": "2026-10-27T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2026-10-28T00:00:00.000Z"
+  },
+  "guests": 1,
+  "nights": 1,
+  "totalAmount": 1800,
+  "status": "confirmed",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-10-27T18:10:13.399Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T18:10:18.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae0e96bbc84739aa020fe15"
+  },
+  "user": {
+    "$oid": "6ae0e81d4e1766a8583ead4c"
+  },
+  "room": {
+    "$oid": "6ae0e81d4e1766a8583ead53"
+  },
+  "checkIn": {
+    "$date": "2026-10-27T00:00:00.000Z"
+  },
+  "checkOut": {
+    "$date": "2026-10-28T00:00:00.000Z"
+  },
+  "guests": 1,
+  "nights": 1,
+  "totalAmount": 1900,
+  "status": "confirmed",
+  "paymentStatus": "paid",
+  "createdAt": {
+    "$date": "2026-10-27T18:11:55.041Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T18:12:05.802Z"
+  },
+  "__v": 0
+}]

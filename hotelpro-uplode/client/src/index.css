@@ -1,0 +1,27 @@
+:root {
+  --hp-ink: #1d2b2f;
+  --hp-teal: #1f4e54;
+  --hp-brass: #b08d57;
+  --hp-paper: #f6f4ef;
+}
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background: var(--hp-paper);
+  color: var(--hp-ink);
+}
+h1, h2, h3, h4, .navbar-brand {
+  font-family: 'Fraunces', Georgia, serif;
+}
+.navbar-hp { background: var(--hp-teal); }
+.navbar-hp .navbar-brand, .navbar-hp .nav-link { color: #fff; }
+.navbar-hp .nav-link:hover { color: var(--hp-brass); }
+.btn-brass { background: var(--hp-brass); color: #fff; border: 0; }
+.btn-brass:hover { background: #967741; color: #fff; }
+.btn-teal { background: var(--hp-teal); color: #fff; border: 0; }
+.btn-teal:hover { background: #173b40; color: #fff; }
+.hero { background: var(--hp-teal); color: #fff; padding: 3rem 0 4.5rem; }
+.search-panel { margin-top: -3rem; }
+.room-card { border: 1px solid #e2ddd1; border-radius: 6px; }
+.room-price { font-family: 'Fraunces', Georgia, serif; font-size: 1.4rem; color: var(--hp-teal); }
+.badge-soft { background: #ebe5d6; color: var(--hp-ink); font-weight: 500; }
+.table > :not(caption) > * > * { vertical-align: middle; }

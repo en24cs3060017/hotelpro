@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6ae0e81d4e1766a8583ead4a"
+  },
+  "name": "Admin",
+  "email": "admin@hotelpro.com",
+  "password": "$2a$10$rOhIjBxZNTZC6hcEtNDa0OlqM4TexUyxWRx8WfQT9wG9Vjdc1x58W",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2026-10-27T18:06:21.146Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T18:06:21.146Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae0e81d4e1766a8583ead4b"
+  },
+  "name": "Front Desk",
+  "email": "staff@hotelpro.com",
+  "password": "$2a$10$MLT/uAmXpN4GEQ/e7l/CuOjDKjH4mpK.0RQNQzzdD8Oc1Xdeon/dm",
+  "role": "staff",
+  "createdAt": {
+    "$date": "2026-10-27T18:06:21.147Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T18:06:21.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ae0e81d4e1766a8583ead4c"
+  },
+  "name": "Demo Guest",
+  "email": "guest@hotelpro.com",
+  "password": "$2a$10$AbepiTGiohkJwHPSLCGfgeEweVAL3xY5rWjllIF6ghfopUjB39YXu",
+  "role": "guest",
+  "createdAt": {
+    "$date": "2026-10-27T18:06:21.147Z"
+  },
+  "updatedAt": {
+    "$date": "2026-10-27T18:06:21.147Z"
+  },
+  "__v": 0
+}]
